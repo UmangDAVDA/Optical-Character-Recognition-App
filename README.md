@@ -6,7 +6,7 @@ the process of placing information in the correct format and font.
    
   
  
-
+https://github.com/UmangDAVDA/Optical-Character-Recognition-App/blob/master/ss1.jpg
       
       
   
